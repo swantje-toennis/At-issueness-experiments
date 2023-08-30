@@ -1,0 +1,10 @@
+﻿participant,session,date,expName,psychopyVersion,OS,frameRate,position_prop,about_rate1.response,about_rate2.response,trials_block1.thisRepN,trials_block1.thisTrialN,trials_block1.thisN,trials_block1.thisIndex,trials_block1.ran,item,condition,context,Q_loc,Q_like,list,block,continue_rate.response,trials_block2.thisRepN,trials_block2.thisTrialN,trials_block2.thisN,trials_block2.thisIndex,trials_block2.ran,continuation,age_enter.text,gender_slider.response,lang_enter.text
+692150,001,2023-06-29_09h43.46.878,quick_pilot4,2022.2.5,MacIntel,60.0024001,,,,,,,,,,,,,,,,,,,,,,,,,
+692150,001,2023-06-29_09h43.46.878,quick_pilot4,2022.2.5,MacIntel,60.0024001,,,,,,,,,,,,,,,,,,,,,,,,,
+692150,001,2023-06-29_09h43.46.878,quick_pilot4,2022.2.5,MacIntel,60.0024001,,,,,,,,,,,,,,,,,,,,,,,,,
+692150,001,2023-06-29_09h43.46.878,quick_pilot4,2022.2.5,MacIntel,60.0024001,,,,,,,,,,,,,,,,,,,,,,,,,
+692150,001,2023-06-29_09h43.46.878,quick_pilot4,2022.2.5,MacIntel,60.0024001,"[[0,-0.25],[0,-0.08]]",1,0,0,0,0,0,1,t4,food_ai,Emma said: Mary is trying to guess Peter's favorite food.,about where Peter is,about what Peter likes,4,1,,,,,,,,,,
+692150,001,2023-06-29_09h43.46.878,quick_pilot4,2022.2.5,MacIntel,60.0024001,,,,,,,,,,,,,,,,,,,,,,,,,
+692150,001,2023-06-29_09h43.46.878,quick_pilot4,2022.2.5,MacIntel,60.0024001,,,,,,,,,,,,,,,,,,,,,,,,,
+692150,001,2023-06-29_09h43.46.878,quick_pilot4,2022.2.5,MacIntel,60.0024001,,,,,,,,,t4,food_ai,"Emma said: Mary is trying to guess Peter's favorite food. Peter, who is at Susan’s house, likes pizza.",,,4,2,0.779735631,0,0,0,0,1,"Peter, who is at Susan’s house, likes pizza.",,,
+692150,001,2023-06-29_09h43.46.878,quick_pilot4,2022.2.5,MacIntel,60.0024001,,,,,,,,,,,,,,,,,,,,,,,32,1,English

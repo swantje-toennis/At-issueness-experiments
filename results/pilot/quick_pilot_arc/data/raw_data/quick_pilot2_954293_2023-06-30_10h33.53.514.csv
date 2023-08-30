@@ -1,0 +1,10 @@
+﻿participant,session,date,expName,psychopyVersion,OS,frameRate,position_prop,about_rate1.response,about_rate2.response,trials_block1.thisRepN,trials_block1.thisTrialN,trials_block1.thisN,trials_block1.thisIndex,trials_block1.ran,item,condition,context,Q_loc,Q_like,list,block,continue_rate.response,trials_block2.thisRepN,trials_block2.thisTrialN,trials_block2.thisN,trials_block2.thisIndex,trials_block2.ran,continuation,age_enter.text,gender_slider.response,lang_enter.text
+954293,001,2023-06-30_10h33.53.514,quick_pilot2,2022.2.5,Win32,59.99880002,,,,,,,,,,,,,,,,,,,,,,,,,
+954293,001,2023-06-30_10h33.53.514,quick_pilot2,2022.2.5,Win32,59.99880002,,,,,,,,,,,,,,,,,,,,,,,,,
+954293,001,2023-06-30_10h33.53.514,quick_pilot2,2022.2.5,Win32,59.99880002,,,,,,,,,,,,,,,,,,,,,,,,,
+954293,001,2023-06-30_10h33.53.514,quick_pilot2,2022.2.5,Win32,59.99880002,,,,,,,,,,,,,,,,,,,,,,,,,
+954293,001,2023-06-30_10h33.53.514,quick_pilot2,2022.2.5,Win32,59.99880002,"[[0,-0.25],[0,-0.08]]",0.111805566,0.829166667,0,0,0,0,1,t2,look_nai,Emma said: Mary is looking for Peter. ,about where Peter is,about what Peter likes,2,1,,,,,,,,,,
+954293,001,2023-06-30_10h33.53.514,quick_pilot2,2022.2.5,Win32,59.99880002,,,,,,,,,,,,,,,,,,,,,,,,,
+954293,001,2023-06-30_10h33.53.514,quick_pilot2,2022.2.5,Win32,59.99880002,,,,,,,,,,,,,,,,,,,,,,,,,
+954293,001,2023-06-30_10h33.53.514,quick_pilot2,2022.2.5,Win32,59.99880002,,,,,,,,,t2,look_nai,"Emma said: Mary is looking for Peter. Peter, who is at Susan’s house, likes pizza.",,,2,2,0.658333333,0,0,0,0,1,"Peter, who is at Susan’s house, likes pizza.",,,
+954293,001,2023-06-30_10h33.53.514,quick_pilot2,2022.2.5,Win32,59.99880002,,,,,,,,,,,,,,,,,,,,,,,23,1,English

@@ -1,0 +1,11 @@
+﻿participant,session,date,expName,psychopyVersion,OS,frameRate,exp.response,trials_block1.thisRepN,trials_block1.thisTrialN,trials_block1.thisN,trials_block1.thisIndex,trials_block1.ran,condition,context,Q_cc,list,block,certainty_rate.response,trials_block2.thisRepN,trials_block2.thisTrialN,trials_block2.thisN,trials_block2.thisIndex,trials_block2.ran,certainty,explanation_enter.text,age_enter.text,gender_slider.response,lang_enter.text
+865820,001,2023-07-13_12h01.57.419,pilot2,2022.2.5,Win32,59.33661663,,,,,,,,,,,,,,,,,,,,,,
+865820,001,2023-07-13_12h01.57.419,pilot2,2022.2.5,Win32,59.33661663,,,,,,,,,,,,,,,,,,,,,,
+865820,001,2023-07-13_12h01.57.419,pilot2,2022.2.5,Win32,59.33661663,,,,,,,,,,,,,,,,,,,,,,
+865820,001,2023-07-13_12h01.57.419,pilot2,2022.2.5,Win32,59.33661663,,,,,,,,,,,,,,,,,,,,,,
+865820,001,2023-07-13_12h01.57.419,pilot2,2022.2.5,Win32,59.33661663,1,0,0,0,0,1,at-issue,"It's so curious! Nobody knows where Sue's boyfriend Tom is every Monday. Just now I saw Sue yelling at Tom, so she seems to have figured it out and I also have an idea now.",about where Tom is every Monday,2,1,,,,,,,,,,,
+865820,001,2023-07-13_12h01.57.419,pilot2,2022.2.5,Win32,59.33661663,,,,,,,,,,,,,,,,,,,,,,
+865820,001,2023-07-13_12h01.57.419,pilot2,2022.2.5,Win32,59.33661663,,,,,,,at-issue,"It's so curious! Nobody knows where Sue's boyfriend Tom is every Monday. Just now I saw Sue yelling at Tom, so she seems to have figured it out and I also have an idea now. Maybe Sue discovered that he's at Mary's every Monday.",,2,2,1,0,0,0,0,1,Is the girl certain that Tom is at Mary's every Monday?,,,,
+865820,001,2023-07-13_12h01.57.419,pilot2,2022.2.5,Win32,59.33661663,,,,,,,,,,,,,,,,,,,,,,
+865820,001,2023-07-13_12h01.57.419,pilot2,2022.2.5,Win32,59.33661663,,,,,,,,,,,,,,,,,,,The speaker said they also had an idea of where Tom was,,,
+865820,001,2023-07-13_12h01.57.419,pilot2,2022.2.5,Win32,59.33661663,,,,,,,,,,,,,,,,,,,,57,1,English

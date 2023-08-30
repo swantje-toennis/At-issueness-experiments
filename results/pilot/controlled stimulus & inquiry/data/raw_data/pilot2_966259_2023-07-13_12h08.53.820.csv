@@ -1,0 +1,11 @@
+﻿participant,session,date,expName,psychopyVersion,OS,frameRate,exp.response,trials_block1.thisRepN,trials_block1.thisTrialN,trials_block1.thisN,trials_block1.thisIndex,trials_block1.ran,condition,context,Q_cc,list,block,certainty_rate.response,trials_block2.thisRepN,trials_block2.thisTrialN,trials_block2.thisN,trials_block2.thisIndex,trials_block2.ran,certainty,explanation_enter.text,age_enter.text,gender_slider.response,lang_enter.text
+966259,001,2023-07-13_12h08.53.820,pilot2,2022.2.5,Win32,164.9892757,,,,,,,,,,,,,,,,,,,,,,
+966259,001,2023-07-13_12h08.53.820,pilot2,2022.2.5,Win32,164.9892757,,,,,,,,,,,,,,,,,,,,,,
+966259,001,2023-07-13_12h08.53.820,pilot2,2022.2.5,Win32,164.9892757,,,,,,,,,,,,,,,,,,,,,,
+966259,001,2023-07-13_12h08.53.820,pilot2,2022.2.5,Win32,164.9892757,,,,,,,,,,,,,,,,,,,,,,
+966259,001,2023-07-13_12h08.53.820,pilot2,2022.2.5,Win32,164.9892757,0.775,0,0,0,0,1,at-issue,"It's so curious! Nobody knows where Sue's boyfriend Tom is every Monday. Just now I saw Sue yelling at Tom, so she seems to have figured it out and I also have an idea now.",about where Tom is every Monday,2,1,,,,,,,,,,,
+966259,001,2023-07-13_12h08.53.820,pilot2,2022.2.5,Win32,164.9892757,,,,,,,,,,,,,,,,,,,,,,
+966259,001,2023-07-13_12h08.53.820,pilot2,2022.2.5,Win32,164.9892757,,,,,,,at-issue,"It's so curious! Nobody knows where Sue's boyfriend Tom is every Monday. Just now I saw Sue yelling at Tom, so she seems to have figured it out and I also have an idea now. Maybe Sue discovered that he's at Mary's every Monday.",,2,2,0.715740741,0,0,0,0,1,Is the girl certain that Tom is at Mary's every Monday?,,,,
+966259,001,2023-07-13_12h08.53.820,pilot2,2022.2.5,Win32,164.9892757,,,,,,,,,,,,,,,,,,,,,,
+966259,001,2023-07-13_12h08.53.820,pilot2,2022.2.5,Win32,164.9892757,,,,,,,,,,,,,,,,,,,I just thought about the natural flow of the conversation and based on humans natural inclination to inquire more about drama/gossip. ,,,
+966259,001,2023-07-13_12h08.53.820,pilot2,2022.2.5,Win32,164.9892757,,,,,,,,,,,,,,,,,,,,25,2,English

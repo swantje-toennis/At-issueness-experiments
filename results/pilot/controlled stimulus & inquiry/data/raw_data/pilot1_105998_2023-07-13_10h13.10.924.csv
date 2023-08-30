@@ -1,0 +1,11 @@
+﻿participant,session,date,expName,psychopyVersion,OS,frameRate,exp.response,trials_block1.thisRepN,trials_block1.thisTrialN,trials_block1.thisN,trials_block1.thisIndex,trials_block1.ran,condition,context,Q_cc,list,block,certainty_rate.response,trials_block2.thisRepN,trials_block2.thisTrialN,trials_block2.thisN,trials_block2.thisIndex,trials_block2.ran,certainty,explanation_enter.text,age_enter.text,gender_slider.response,lang_enter.text
+105998,001,2023-07-13_10h13.10.924,pilot1,2022.2.5,MacIntel,60.0024001,,,,,,,,,,,,,,,,,,,,,,
+105998,001,2023-07-13_10h13.10.924,pilot1,2022.2.5,MacIntel,60.0024001,,,,,,,,,,,,,,,,,,,,,,
+105998,001,2023-07-13_10h13.10.924,pilot1,2022.2.5,MacIntel,60.0024001,,,,,,,,,,,,,,,,,,,,,,
+105998,001,2023-07-13_10h13.10.924,pilot1,2022.2.5,MacIntel,60.0024001,,,,,,,,,,,,,,,,,,,,,,
+105998,001,2023-07-13_10h13.10.924,pilot1,2022.2.5,MacIntel,60.0024001,0.893999129,0,0,0,0,1,not-at-issue,"I'm so upset! We all know where Sue's boyfriend Tom is every Monday, only Sue doesn't. But lately she seems to be angry with Tom, that bastard.",about where Tom is every Monday,1,1,,,,,,,,,,,
+105998,001,2023-07-13_10h13.10.924,pilot1,2022.2.5,MacIntel,60.0024001,,,,,,,,,,,,,,,,,,,,,,
+105998,001,2023-07-13_10h13.10.924,pilot1,2022.2.5,MacIntel,60.0024001,,,,,,,not-at-issue,"I'm so upset! We all know where Sue's boyfriend Tom is every Monday, only Sue doesn't. But lately she seems to be angry with Tom, that bastard. Maybe she discovered that he's at Mary's every Monday.",,1,2,1,0,0,0,0,1,Is the girl certain that Tom is at Mary's every Monday?,,,,
+105998,001,2023-07-13_10h13.10.924,pilot1,2022.2.5,MacIntel,60.0024001,,,,,,,,,,,,,,,,,,,,,,
+105998,001,2023-07-13_10h13.10.924,pilot1,2022.2.5,MacIntel,60.0024001,,,,,,,,,,,,,,,,,,,"By placing myself in the position of a person participating in this conversation, I would be very curious what the speaker meant by ""we all know."" I assumed that the speaker was a little overconfident in assuming that everyone knew about where Tom was every Monday. I would assume that a question asking for more detail about this would be highly expected given the sentence above. ",,,
+105998,001,2023-07-13_10h13.10.924,pilot1,2022.2.5,MacIntel,60.0024001,,,,,,,,,,,,,,,,,,,,22,2,"English, Tamil"

@@ -1,0 +1,11 @@
+﻿participant,session,date,expName,psychopyVersion,OS,frameRate,exp.response,trials_block1.thisRepN,trials_block1.thisTrialN,trials_block1.thisN,trials_block1.thisIndex,trials_block1.ran,condition,context,Q_cc,list,block,certainty_rate.response,trials_block2.thisRepN,trials_block2.thisTrialN,trials_block2.thisN,trials_block2.thisIndex,trials_block2.ran,certainty,explanation_enter.text,age_enter.text,gender_slider.response,lang_enter.text
+254959,001,2023-07-13_12h12.22.917,pilot2,2022.2.5,MacIntel,59.99160118,,,,,,,,,,,,,,,,,,,,,,
+254959,001,2023-07-13_12h12.22.917,pilot2,2022.2.5,MacIntel,59.99160118,,,,,,,,,,,,,,,,,,,,,,
+254959,001,2023-07-13_12h12.22.917,pilot2,2022.2.5,MacIntel,59.99160118,,,,,,,,,,,,,,,,,,,,,,
+254959,001,2023-07-13_12h12.22.917,pilot2,2022.2.5,MacIntel,59.99160118,,,,,,,,,,,,,,,,,,,,,,
+254959,001,2023-07-13_12h12.22.917,pilot2,2022.2.5,MacIntel,59.99160118,0.982212999,0,0,0,0,1,at-issue,"It's so curious! Nobody knows where Sue's boyfriend Tom is every Monday. Just now I saw Sue yelling at Tom, so she seems to have figured it out and I also have an idea now.",about where Tom is every Monday,2,1,,,,,,,,,,,
+254959,001,2023-07-13_12h12.22.917,pilot2,2022.2.5,MacIntel,59.99160118,,,,,,,,,,,,,,,,,,,,,,
+254959,001,2023-07-13_12h12.22.917,pilot2,2022.2.5,MacIntel,59.99160118,,,,,,,at-issue,"It's so curious! Nobody knows where Sue's boyfriend Tom is every Monday. Just now I saw Sue yelling at Tom, so she seems to have figured it out and I also have an idea now. Maybe Sue discovered that he's at Mary's every Monday.",,2,2,1,0,0,0,0,1,Is the girl certain that Tom is at Mary's every Monday?,,,,
+254959,001,2023-07-13_12h12.22.917,pilot2,2022.2.5,MacIntel,59.99160118,,,,,,,,,,,,,,,,,,,,,,
+254959,001,2023-07-13_12h12.22.917,pilot2,2022.2.5,MacIntel,59.99160118,,,,,,,,,,,,,,,,,,,The girl who was talking seemed to know Tom was at Mary's every Monday.  The way she said it indicated it was a fact rather than conjecture.,,,
+254959,001,2023-07-13_12h12.22.917,pilot2,2022.2.5,MacIntel,59.99160118,,,,,,,,,,,,,,,,,,,,51,1,English

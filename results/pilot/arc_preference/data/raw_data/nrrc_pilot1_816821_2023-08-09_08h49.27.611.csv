@@ -1,0 +1,10 @@
+﻿participant,session,date,expName,psychopyVersion,OS,frameRate,position_prop,exp1.response,exp2.response,trials_block1.thisRepN,trials_block1.thisTrialN,trials_block1.thisN,trials_block1.thisIndex,trials_block1.ran,item,context,Q_nai,Q_ai,list,position_prop2,pref.response,trials_block2.thisRepN,trials_block2.thisTrialN,trials_block2.thisN,trials_block2.thisIndex,trials_block2.ran,rc,mc,age_enter.text,gender_slider.response,lang_enter.text
+816821,001,2023-08-09_08h49.27.611,nrrc_pilot1,2022.2.5,Win32,60.35003018,,,,,,,,,,,,,,,,,,,,,,,,,
+816821,001,2023-08-09_08h49.27.611,nrrc_pilot1,2022.2.5,Win32,60.35003018,,,,,,,,,,,,,,,,,,,,,,,,,
+816821,001,2023-08-09_08h49.27.611,nrrc_pilot1,2022.2.5,Win32,60.35003018,,,,,,,,,,,,,,,,,,,,,,,,,
+816821,001,2023-08-09_08h49.27.611,nrrc_pilot1,2022.2.5,Win32,60.35003018,,,,,,,,,,,,,,,,,,,,,,,,,
+816821,001,2023-08-09_08h49.27.611,nrrc_pilot1,2022.2.5,Win32,60.35003018,"[[0,-0.25],[0,-0.08]]",0.161111111,0.857407464,0,0,0,0,1,t1,Emma said: Mary wants to cook something that Peter likes and something that Donald likes.,about where Peter is,about what food Peter likes,1,,,,,,,,,,,,
+816821,001,2023-08-09_08h49.27.611,nrrc_pilot1,2022.2.5,Win32,60.35003018,,,,,,,,,,,,,,,,,,,,,,,,,
+816821,001,2023-08-09_08h49.27.611,nrrc_pilot1,2022.2.5,Win32,60.35003018,,,,,,,,,,,,,,,,,,,,,,,,,
+816821,001,2023-08-09_08h49.27.611,nrrc_pilot1,2022.2.5,Win32,60.35003018,,,,,,,,,t1,Emma said: Mary wants to cook something that Peter likes and something that Donald likes.,,,1,"[[0,-0.1],[0,0]]",-0.505555556,0,0,0,0,1,"Peter, who likes pizza, is at the music store.","Peter, who is at the music store, likes pizza.",,,
+816821,001,2023-08-09_08h49.27.611,nrrc_pilot1,2022.2.5,Win32,60.35003018,,,,,,,,,,,,,,,,,,,,,,,66,1,english

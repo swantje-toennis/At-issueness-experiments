@@ -1,0 +1,11 @@
+﻿participant,session,date,expName,psychopyVersion,OS,frameRate,exp.response,trials_block1.thisRepN,trials_block1.thisTrialN,trials_block1.thisN,trials_block1.thisIndex,trials_block1.ran,condition,context,Q_cc,list,block,certainty_rate.response,trials_block2.thisRepN,trials_block2.thisTrialN,trials_block2.thisN,trials_block2.thisIndex,trials_block2.ran,certainty,explanation_enter.text,age_enter.text,gender_slider.response,lang_enter.text
+194849,001,2023-07-13_11h05.59.339,pilot2,2022.2.5,Win32,59.95203837,,,,,,,,,,,,,,,,,,,,,,
+194849,001,2023-07-13_11h05.59.339,pilot2,2022.2.5,Win32,59.95203837,,,,,,,,,,,,,,,,,,,,,,
+194849,001,2023-07-13_11h05.59.339,pilot2,2022.2.5,Win32,59.95203837,,,,,,,,,,,,,,,,,,,,,,
+194849,001,2023-07-13_11h05.59.339,pilot2,2022.2.5,Win32,59.95203837,,,,,,,,,,,,,,,,,,,,,,
+194849,001,2023-07-13_11h05.59.339,pilot2,2022.2.5,Win32,59.95203837,0.88469285,0,0,0,0,1,at-issue,"It's so curious! Nobody knows where Sue's boyfriend Tom is every Monday. Just now I saw Sue yelling at Tom, so she seems to have figured it out and I also have an idea now.",about where Tom is every Monday,2,1,,,,,,,,,,,
+194849,001,2023-07-13_11h05.59.339,pilot2,2022.2.5,Win32,59.95203837,,,,,,,,,,,,,,,,,,,,,,
+194849,001,2023-07-13_11h05.59.339,pilot2,2022.2.5,Win32,59.95203837,,,,,,,at-issue,"It's so curious! Nobody knows where Sue's boyfriend Tom is every Monday. Just now I saw Sue yelling at Tom, so she seems to have figured it out and I also have an idea now. Maybe Sue discovered that he's at Mary's every Monday.",,2,2,0.113293051,0,0,0,0,1,Is the girl certain that Tom is at Mary's every Monday?,,,,
+194849,001,2023-07-13_11h05.59.339,pilot2,2022.2.5,Win32,59.95203837,,,,,,,,,,,,,,,,,,,,,,
+194849,001,2023-07-13_11h05.59.339,pilot2,2022.2.5,Win32,59.95203837,,,,,,,,,,,,,,,,,,,"The implication of where Tom is seems clear based on what's being said, and it wouldn't be at Mary's. It wouldn't be expected that he would be there, since she was yelling at him.",,,
+194849,001,2023-07-13_11h05.59.339,pilot2,2022.2.5,Win32,59.95203837,,,,,,,,,,,,,,,,,,,,45,3,English

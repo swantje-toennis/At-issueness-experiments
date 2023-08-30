@@ -1,0 +1,11 @@
+﻿participant,session,date,expName,psychopyVersion,OS,frameRate,exp.response,trials_block1.thisRepN,trials_block1.thisTrialN,trials_block1.thisN,trials_block1.thisIndex,trials_block1.ran,condition,context,Q_cc,list,block,certainty_rate.response,trials_block2.thisRepN,trials_block2.thisTrialN,trials_block2.thisN,trials_block2.thisIndex,trials_block2.ran,certainty,explanation_enter.text,age_enter.text,gender_slider.response,lang_enter.text
+201587,001,2023-07-13_11h12.30.342,pilot2,2022.2.5,Win32,60.05645307,,,,,,,,,,,,,,,,,,,,,,
+201587,001,2023-07-13_11h12.30.342,pilot2,2022.2.5,Win32,60.05645307,,,,,,,,,,,,,,,,,,,,,,
+201587,001,2023-07-13_11h12.30.342,pilot2,2022.2.5,Win32,60.05645307,,,,,,,,,,,,,,,,,,,,,,
+201587,001,2023-07-13_11h12.30.342,pilot2,2022.2.5,Win32,60.05645307,,,,,,,,,,,,,,,,,,,,,,
+201587,001,2023-07-13_11h12.30.342,pilot2,2022.2.5,Win32,60.05645307,1,0,0,0,0,1,at-issue,"It's so curious! Nobody knows where Sue's boyfriend Tom is every Monday. Just now I saw Sue yelling at Tom, so she seems to have figured it out and I also have an idea now.",about where Tom is every Monday,2,1,,,,,,,,,,,
+201587,001,2023-07-13_11h12.30.342,pilot2,2022.2.5,Win32,60.05645307,,,,,,,,,,,,,,,,,,,,,,
+201587,001,2023-07-13_11h12.30.342,pilot2,2022.2.5,Win32,60.05645307,,,,,,,at-issue,"It's so curious! Nobody knows where Sue's boyfriend Tom is every Monday. Just now I saw Sue yelling at Tom, so she seems to have figured it out and I also have an idea now. Maybe Sue discovered that he's at Mary's every Monday.",,2,2,0.712037037,0,0,0,0,1,Is the girl certain that Tom is at Mary's every Monday?,,,,
+201587,001,2023-07-13_11h12.30.342,pilot2,2022.2.5,Win32,60.05645307,,,,,,,,,,,,,,,,,,,,,,
+201587,001,2023-07-13_11h12.30.342,pilot2,2022.2.5,Win32,60.05645307,,,,,,,,,,,,,,,,,,,"The previous sentences were about Tom's absences on Monday, Sue upset with Tom, and the speaker saying they now know where Tom is every Monday. It is logical to assume she will share the results of her last sentence.",,,
+201587,001,2023-07-13_11h12.30.342,pilot2,2022.2.5,Win32,60.05645307,,,,,,,,,,,,,,,,,,,,30,2,English

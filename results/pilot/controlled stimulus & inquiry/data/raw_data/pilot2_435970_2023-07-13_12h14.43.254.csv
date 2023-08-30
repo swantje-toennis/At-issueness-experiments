@@ -1,0 +1,11 @@
+﻿participant,session,date,expName,psychopyVersion,OS,frameRate,exp.response,trials_block1.thisRepN,trials_block1.thisTrialN,trials_block1.thisN,trials_block1.thisIndex,trials_block1.ran,condition,context,Q_cc,list,block,certainty_rate.response,trials_block2.thisRepN,trials_block2.thisTrialN,trials_block2.thisN,trials_block2.thisIndex,trials_block2.ran,certainty,explanation_enter.text,age_enter.text,gender_slider.response,lang_enter.text
+435970,001,2023-07-13_12h14.43.254,pilot2,2022.2.5,MacIntel,11.76470588,,,,,,,,,,,,,,,,,,,,,,
+435970,001,2023-07-13_12h14.43.254,pilot2,2022.2.5,MacIntel,11.76470588,,,,,,,,,,,,,,,,,,,,,,
+435970,001,2023-07-13_12h14.43.254,pilot2,2022.2.5,MacIntel,11.76470588,,,,,,,,,,,,,,,,,,,,,,
+435970,001,2023-07-13_12h14.43.254,pilot2,2022.2.5,MacIntel,11.76470588,,,,,,,,,,,,,,,,,,,,,,
+435970,001,2023-07-13_12h14.43.254,pilot2,2022.2.5,MacIntel,11.76470588,0.77,0,0,0,0,1,at-issue,"It's so curious! Nobody knows where Sue's boyfriend Tom is every Monday. Just now I saw Sue yelling at Tom, so she seems to have figured it out and I also have an idea now.",about where Tom is every Monday,2,1,,,,,,,,,,,
+435970,001,2023-07-13_12h14.43.254,pilot2,2022.2.5,MacIntel,11.76470588,,,,,,,,,,,,,,,,,,,,,,
+435970,001,2023-07-13_12h14.43.254,pilot2,2022.2.5,MacIntel,11.76470588,,,,,,,at-issue,"It's so curious! Nobody knows where Sue's boyfriend Tom is every Monday. Just now I saw Sue yelling at Tom, so she seems to have figured it out and I also have an idea now. Maybe Sue discovered that he's at Mary's every Monday.",,2,2,0.011111111,0,0,0,0,1,Is the girl certain that Tom is at Mary's every Monday?,,,,
+435970,001,2023-07-13_12h14.43.254,pilot2,2022.2.5,MacIntel,11.76470588,,,,,,,,,,,,,,,,,,,,,,
+435970,001,2023-07-13_12h14.43.254,pilot2,2022.2.5,MacIntel,11.76470588,,,,,,,,,,,,,,,,,,,,,,
+435970,001,2023-07-13_12h14.43.254,pilot2,2022.2.5,MacIntel,11.76470588,,,,,,,,,,,,,,,,,,,,,1,

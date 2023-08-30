@@ -1,0 +1,11 @@
+﻿participant,session,date,expName,psychopyVersion,OS,frameRate,exp.response,trials_block1.thisRepN,trials_block1.thisTrialN,trials_block1.thisN,trials_block1.thisIndex,trials_block1.ran,condition,context,Q_cc,list,block,certainty_rate.response,trials_block2.thisRepN,trials_block2.thisTrialN,trials_block2.thisN,trials_block2.thisIndex,trials_block2.ran,certainty,explanation_enter.text,age_enter.text,gender_slider.response,lang_enter.text
+407109,001,2023-07-13_11h11.32.503,pilot2,2022.2.5,Win32,60.10699044,,,,,,,,,,,,,,,,,,,,,,
+407109,001,2023-07-13_11h11.32.503,pilot2,2022.2.5,Win32,60.10699044,,,,,,,,,,,,,,,,,,,,,,
+407109,001,2023-07-13_11h11.32.503,pilot2,2022.2.5,Win32,60.10699044,,,,,,,,,,,,,,,,,,,,,,
+407109,001,2023-07-13_11h11.32.503,pilot2,2022.2.5,Win32,60.10699044,,,,,,,,,,,,,,,,,,,,,,
+407109,001,2023-07-13_11h11.32.503,pilot2,2022.2.5,Win32,60.10699044,0.796527778,0,0,0,0,1,at-issue,"It's so curious! Nobody knows where Sue's boyfriend Tom is every Monday. Just now I saw Sue yelling at Tom, so she seems to have figured it out and I also have an idea now.",about where Tom is every Monday,2,1,,,,,,,,,,,
+407109,001,2023-07-13_11h11.32.503,pilot2,2022.2.5,Win32,60.10699044,,,,,,,,,,,,,,,,,,,,,,
+407109,001,2023-07-13_11h11.32.503,pilot2,2022.2.5,Win32,60.10699044,,,,,,,at-issue,"It's so curious! Nobody knows where Sue's boyfriend Tom is every Monday. Just now I saw Sue yelling at Tom, so she seems to have figured it out and I also have an idea now. Maybe Sue discovered that he's at Mary's every Monday.",,2,2,0.671527778,0,0,0,0,1,Is the girl certain that Tom is at Mary's every Monday?,,,,
+407109,001,2023-07-13_11h11.32.503,pilot2,2022.2.5,Win32,60.10699044,,,,,,,,,,,,,,,,,,,,,,
+407109,001,2023-07-13_11h11.32.503,pilot2,2022.2.5,Win32,60.10699044,,,,,,,,,,,,,,,,,,,the inital subject of conversation was the missing person on monday so it would make sense that the conversation continued on the missing person or why they are on that day,,,
+407109,001,2023-07-13_11h11.32.503,pilot2,2022.2.5,Win32,60.10699044,,,,,,,,,,,,,,,,,,,,28,1,english

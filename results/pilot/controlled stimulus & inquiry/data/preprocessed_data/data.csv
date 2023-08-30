@@ -1,0 +1,41 @@
+participant;condition;exp;cer;explanation
+587253;at-issue;0;1;I am assuming that Tom is cheating on Sue with Mary.  I would think that Sue would be surprised by this, but not it this is something Tom does from time to time.
+848033;at-issue;0.309259259;0.666666667;Discussions at parties are generally more gossip-oriented, and a conversation about the whereabouts of someone's boyfriend, in the context of a party, could be expected to go in a direction like that.
+852951;at-issue;0.650925954;0.591666667;the statement that she has an idea but does not want to say it directly out loud indicates to me that she has a high level of certanity of knowing his whereabouts.
+818965;at-issue;0.718766772;0.459249379;The girl speaking indicated that she has an idea of where Tom may be going every Monday. Therefore, it is expected that the next sentence would elaborate on that point, specifying where Tom has been every Monday. 
+339991;at-issue;0.749074074;0.24537037;"I decided that the next sentence was more expected because she said that Sue seemed to have figured it out like Sue already knew for sure. Also the last clause, \I also have an idea now\"" made it seem that they had already thought about it before and was convinced of their idea once they saw Sue yelling at Tom."""
+435970;at-issue;0.77;0.011111111;no explanation given
+966259;at-issue;0.775;0.715740741;I just thought about the natural flow of the conversation and based on humans natural inclination to inquire more about drama/gossip. 
+407109;at-issue;0.796527778;0.671527778;the inital subject of conversation was the missing person on monday so it would make sense that the conversation continued on the missing person or why they are on that day
+645634;at-issue;0.832222222;0.666666667;The speaker says they have an idea where Tom is, so I expected them to say where they think Tom has been going.
+194849;at-issue;0.88469285;0.113293051;The implication of where Tom is seems clear based on what's being said, and it wouldn't be at Mary's. It wouldn't be expected that he would be there, since she was yelling at him.
+44620;at-issue;0.89537037;0;Since the main idea of the conversation is about Tom, it can be assumed that the conversation will continue on where he is on Mondays, especially since while the conversation is happening, Sue is yelling at Tom
+434895;at-issue;0.89537037;0.814814815;The two girls are discussing interesting gossip about Tom may be cheating on his girlfriend, Sue. I would expect the response to continue the conversation and probe into whether or not Tom really is cheating and with whom. That is why the response was expected.
+781225;at-issue;0.978880882;0.266333342;she was making a supposition about where tom was every monday
+254959;at-issue;0.982212999;1;The girl who was talking seemed to know Tom was at Mary's every Monday.  The way she said it indicated it was a fact rather than conjecture.
+203877;at-issue;0.988888889;1;I mean, that is what I would ask next personally. I think it is quite expected for us to ask more into a little gossip. 
+767766;at-issue;0.993868273;0;That is what the conversation is all about
+157650;at-issue;1;1;In imagining the conversation I would expect the other person to ask about Tom's whereabouts if she did not continue. It's a bit salacious so I think she want's to talk about what she knows(like gossip).
+201587;at-issue;1;0.712037037;The previous sentences were about Tom's absences on Monday, Sue upset with Tom, and the speaker saying they now know where Tom is every Monday. It is logical to assume she will share the results of her last sentence.
+865820;at-issue;1;1;The speaker said they also had an idea of where Tom was
+984385;at-issue;1;1;I think so because that is what I would ask myself. Even now, I would really want to know where he is.
+269030;not-at-issue;0.085629476;1;"It was expected because she said \only Sue doesn't\"" as if they already knew where he would be."""
+599134;not-at-issue;0.221296296;1;"She said \we all know\"" which implies certainty"""
+43222;not-at-issue;0.296875;0.821614583;I did not expect it to be revealed
+937380;not-at-issue;0.59838752;1;On the one hand, it seemed clear that where Tom goes on monday is central to the conversation, because the speaker lead with that fact. That said, I wasn't completely sure, because the focus seems to be on what Tom was doing that could hurt Mary, so I could have also seen the next sentence being about the activity he was doing, and less the place where he went or the day of the week he went there.
+270723;not-at-issue;0.6015625;0.891927083;BECAUSE THEY ARE ALWAYS LOOKING FOR TOMON MONDAYS
+748174;not-at-issue;0.666666667;0.84375;Based on the text, it seemed pretty expected that she would say where Tom is every Monday. In the context of what she was saying, she says she is upset by this, which in turn would make her say why specifically she's upset. Based on my inference, I figured she would either say where he is every Monday or who he is with. She said both of those in the next sentence.
+517808;not-at-issue;0.71484375;1;It was more expected because the speaker seemed upset that only Sue doesn't know, like he is cheating on her and wants to talk about it.
+525840;not-at-issue;0.721394721;1; Because Sue is angry with Tom.
+49176;not-at-issue;0.75;0.990885417;"Where Tom is every Monday is expected because the speaker says; \We all know where...\"" but, we do not all know and it would be logical to tell us."""
+913665;not-at-issue;0.759259259;0.962962963;Because of how it was framed with the bastard line. and location on a workday
+643536;not-at-issue;0.787037037;0.884259259;She's heated about the conversation so I expected her to keep talking about it rather than changing the subject. 
+527115;not-at-issue;0.793518519;1;Because the speaker asserted that they (and everybody else) knew where Tom was and didn't expand on it. It would make sense to say more about the topic
+683898;not-at-issue;0.796875;1;The statement that she seems to be angry with him implies that Sue at least has a suspicion that Tom is somewhere on Mondays that he shouldn't be.
+391676;not-at-issue;0.815336463;0.388888889;She's been wondering where Tom is and it's angry about that. So it's likely that the next sentence will keep talking about that.
+581878;not-at-issue;0.838888889;1;It is assumed that Tom is potentially cheating on Sue by visiting Macy. The tone is depicted as assertive and judgemental as if they know this is factual
+586695;not-at-issue;0.86927124;0.550654297;I decided based on the context of the previous sentences. It would make sense that the next sentence has something to do with where Tom goes on Mondays.
+105998;not-at-issue;0.893999129;1;"By placing myself in the position of a person participating in this conversation, I would be very curious what the speaker meant by \we all know.\"" I assumed that the speaker was a little overconfident in assuming that everyone knew about where Tom was every Monday. I would assume that a question asking for more detail about this would be highly expected given the sentence above. """
+75275;not-at-issue;1;1;As a girl who loves to gossip myself, of course she was going to mention where Tom is. The fun part about gossiping is going over all the details over and over no matter how many times they've been said- it's like nitpicking. #TeamSue
+217510;not-at-issue;1;1;I decided that the next sentence about where Tom is every Monday was more expected because it follows a logical sequence where it is mentioned vaguely, but it makes sense for it to be followed up in more detail.
+616229;not-at-issue;1;0.91508138;Because if they are gossiping, they will bring up what he is doing since they know.
