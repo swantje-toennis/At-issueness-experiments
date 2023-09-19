@@ -9,7 +9,8 @@ The folder "experiments" contains all stimuli and files required to run the main
 
 The folder "results" contains the results (raw data, preprocessed data), figures of the results, and R scripts for cleaning the raw data, creating figures, and (for the main study) analysis.
 
-## Study 1: At-issueness of complement (CC) of factive verbs (experiments/main, results/main)
+## Study 1: At-issueness of complement (CC) of factive verbs ([experiments/main](https://github.com/swantje-toennis/At-issueness-experiments/tree/main/experiments/main))
+, [results/main](https://github.com/swantje-toennis/At-issueness-experiments/tree/main/results/main))
 
 ## Follow-up pilot 1: Relative expectedness (link)
 
