@@ -7,8 +7,17 @@ This repository contains the materials, results, figures and partly the analyses
 
 The folder "experiments" contains all stimuli and files required to run the main study (in "main") and 4 follow-up pilots (in "pilots") on Pavlovia. All studies were created with the software PsychoPy.
 
-The folder "results" contains the raw data, preprocessed data, figures of the results, and R scripts for cleaning the raw data, creating figures, and (for the main study) analysis.
+The folder "results" contains the results (raw data, preprocessed data), figures of the results, and R scripts for cleaning the raw data, creating figures, and (for the main study) analysis.
 
+## Study 1: At-issueness of complement (CC) of factive verbs (experiments/main, results/main)
+
+## Follow-up pilot 1: Relative expectedness (link)
+
+## Follow-up pilot 2: Clear contrast wrt. expectedness
+
+## Follow-up pilot 3: Appositive relative clause + continuation rating
+
+## Follow-up pilot 4: Appositive relative clause + preference rating
 
 
 
