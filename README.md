@@ -1,5 +1,14 @@
-# At-issueness experiments
-This repository contains the materials, results, figures and partly the analyses of a series of experiments that investigated the relation between discourse expectations and at-issueness.
+# At-issueness studies (conducted by Swantje Tönnis & Judith Tonhauser)
+This repository contains the materials, results, figures and partly the analyses of a series of studies that investigated the relation between discourse expectations and at-issueness. 
 
-The folder "experiments" contains all stimuli and files required to run the main study (in main) and 4 follow-up pilots (in pilot) on Pavlovia. All studies are created with the software PsychoPy.
+**Hypothesis:** The more the question answered by content c of utterance U is expected in the context preceding U, the more c is at-issue.
+
+**Method:** We measured the expectedness of question answered by c (see Tönnis and Tonhauser (2022) for another application of this method), and then tested whether it correlated with bottom-up measures.
+
+The folder "experiments" contains all stimuli and files required to run the main study (in "main") and 4 follow-up pilots (in "pilots") on Pavlovia. All studies were created with the software PsychoPy.
+
+The folder "results" contains the raw data, preprocessed data, figures of the results, and R scripts for cleaning the raw data, creating figures, and (for the main study) analysis.
+
+
+
 
