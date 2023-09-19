@@ -22,6 +22,10 @@ The folder "results" contains the results (raw data, preprocessed data), figures
 * No correlation of at-issueness and MC/CC subject expectedness was found.
 
 #### Follow-up pilot 2: Clear contrast wrt. expectedness ([experiment](https://github.com/swantje-toennis/At-issueness-experiments/tree/main/experiments/pilot/controlled%20stimulus%20%26%20inquiry), [results](https://github.com/swantje-toennis/At-issueness-experiments/tree/main/results/pilot/controlled%20stimulus%20%26%20inquiry))
+* 2 Stimuli each consiting of a context that clearly evoked the question answered by complement (EQ) or answered the question answered by complement (AQ), and a target sentence with factive verb *discover* embedded under entailment cancelling operator *perhaps*.
+* Part I: Expectectedness was measured for question answered by embedded complement.
+* Part II: Projection of complement of *discover*. According to the gradient projection principle, the complement should project to the degree that it is not at-issue (Tonhauser et al. 2018).
+* No correlation of at-issueness and expectedness was found for the EQ and AQ context.
 
 
 #### Follow-up pilot 3: Appositive relative clause + continuation rating ([experiment-part1](https://github.com/swantje-toennis/At-issueness-experiments/tree/main/experiments/pilot/quick_pilot_arc), [experiment-part2](https://github.com/swantje-toennis/At-issueness-experiments/tree/main/experiments/pilot/quick_pilot_arc-part2), [results](https://github.com/swantje-toennis/At-issueness-experiments/tree/main/results/pilot/quick_pilot_arc))
